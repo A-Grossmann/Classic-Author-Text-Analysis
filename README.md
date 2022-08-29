@@ -25,7 +25,12 @@ Author_Methods code:
                         numpy == 1.22.3
                         matplotlib == 3.5.3
                         regex ==2022.7.25
-                        
-      
+   
+   
+   corr_matrix.py
+   
+        -Data written into a csv file for correlation matrix to cancel out redundant variables in the KNN Algorythm
+        Common types of Adverbs for word pecentages showed redundant.
+        
         
         
