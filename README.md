@@ -27,7 +27,7 @@ Author_Methods code:
                         regex ==2022.7.25
    
    
-   corr_matrix.py
+   corr_matrix code:
    
         -Data written into a csv file for correlation matrix to cancel out redundant variables in the KNN Algorythm
         Common types of Adverbs for word pecentages showed redundant.
