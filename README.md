@@ -1,5 +1,5 @@
 # Classic-Author-Text-Analysis
-Reads through txts using the Guttenberg library of open source classic novels.  Determines many attributes of their writings and constructs a DataFrame for such.   Able to predict who wrote what using Machine Learning. This is a Multi-Class Classification problem.
+Reads through txts using the Guttenberg library of open source classic novels.  Determines many attributes of their writings and constructs a DataFrame for such.   Able to predict who wrote what using Machine Learning. This is a Multi-Class Classification supervised learning problem
 
 Author_Methods code:
 
@@ -40,4 +40,10 @@ Author_Methods code:
   Finding a machine learning algorythm for data:
   
   running_knn3 py file:
-        This shows code for the K Nearest Neighbor method.  the skikit-learn package was used for knn clasification analysis.   The different amount of neighbors and the accuracy metrics was used on the 70%,30% Train, Test slit data sets.  An 54% accuracy was obtained for n = 3 in KNN.
+        This shows code for the K Nearest Neighbor method.  the skikit-learn package was used for knn clasification analysis.   The different amount of neighbors        and the accuracy metrics was used on the 70%,30% Train, Test slit data sets.  An 54% accuracy was obtained for n = 3 in KNN.
+        
+  running_Naive Bayes py file:
+        This is a multinomial classification Bayes problem.  skilearn package was used to expediate the process in conditional/prio probability calculations.
+        Was able to obtain a 18% accuracy playing with the train size to 60%.
+        
+        
